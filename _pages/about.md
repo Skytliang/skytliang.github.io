@@ -49,9 +49,13 @@ ICML 2025. [[arxiv]](https://arxiv.org/abs/2412.21187) [[code]](https://github.c
 Zicheng_Lin\*, *Tian Liang*\*, Jiahao Xu\*, Qiuzhi Liu, Xing Wang, Ruilin Luo, Chufan Shi, Siheng Li, Yujiu Yang$^\dagger$, Zhaopeng Tu$^\dagger$<br>
 ICML 2025. [[arxiv]](https://arxiv.org/abs/2411.19943) [[code]](https://github.com/chenzhiling9954/Critical-Tokens-Matter) [[bib]](files/lin2024critical/bib.txt)
 
-**Trust, But Verify: A Self-Verification Approach to Reinforcement Learning with Verifiable Rewards**<br>
+**Thoughts Are All Over the Place: On the Underthinking of Long Reasoning Models**<br>
+Yue Wang, Qiuzhi Liu, Jiahao Xu, *Tian Liang*, Xingyu Chen, Zhiwei He, Linfeng Song, Dian Yu, Juntao Li, Zhuosheng Zhang, Rui Wang, Zhaopeng Tu$^\dagger$, Haitao Mi, Dong Yu<br>
+In submission to Neurips 2025. [[arxiv]](https://arxiv.org/abs/2501.18585) [[bib]](files/wang2025thoughts/bib.txt)
+
+<!-- **Trust, But Verify: A Self-Verification Approach to Reinforcement Learning with Verifiable Rewards**<br>
 Xiaoyuan Liu, *Tian Liang*, Zhiwei He, Jiahao Xu, Wenxuan Wang, Pinjia He$^\dagger$, Zhaopeng Tu$^\dagger$, Haitao Mi, Dong Yu<br>
-In submission to Neurips 2025. [[arxiv]](https://arxiv.org/abs/2505.13445) [[code]](https://github.com/xyliu-cs/RISE) [[bib]](files/liu2025trust/bib.txt)
+In submission to Neurips 2025. [[arxiv]](https://arxiv.org/abs/2505.13445) [[code]](https://github.com/xyliu-cs/RISE) [[bib]](files/liu2025trust/bib.txt) -->
 
 <!-- 
 **Refuse Whenever You Feel Unsafe: Improving Safety in LLMs via Decoupled Refusal Training**<br>
@@ -84,10 +88,6 @@ EMNLP 2023. [[arxiv]](https://arxiv.org/abs/2304.02426) [[code]](https://github.
 
 
 <!-- ## In Submission
-
-**Thoughts Are All Over the Place: On the Underthinking of Long Reasoning Models**<br>
-Yue Wang, Qiuzhi Liu, Jiahao Xu, *Tian Liang*, Xingyu Chen, Zhiwei He, Linfeng Song, Dian Yu, Juntao Li, Zhuosheng Zhang, Rui Wang, Zhaopeng Tu$^\dagger$, Haitao Mi, Dong Yu<br>
-In submission to Neurips 2025. [[arxiv]](https://arxiv.org/abs/2501.18585) [[bib]](files/wang2025thoughts/bib.txt)
 
 **The First Few Tokens Are All You Need: An Efficient and Effective Unsupervised Prefix Fine-Tuning Method for Reasoning Models**<br>
 Ke Ji\*, Jiahao Xu\*, *Tian Liang*\*, Qiuzhi Liu\*, Zhiwei He, Xiaoyuan Liu, Xingyu Chen, Junying Chen, Benyou Wang$^\dagger$, Zhaopeng Tu$^\dagger$, Haitao Mi, Dong Yu<br>
