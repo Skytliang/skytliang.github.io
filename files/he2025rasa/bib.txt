@@ -1,0 +1,6 @@
+@article{he2025rasa,
+  title={RaSA: Rank-sharing low-rank adaptation},
+  author={He, Zhiwei and Tu, Zhaopeng and Wang, Xing and Chen, Xingyu and Wang, Zhijie and Xu, Jiahao and Liang, Tian and Jiao, Wenxiang and Zhang, Zhuosheng and Wang, Rui},
+  journal={arXiv preprint arXiv:2503.12576},
+  year={2025}
+}

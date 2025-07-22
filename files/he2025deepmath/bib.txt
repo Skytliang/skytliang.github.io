@@ -1,0 +1,6 @@
+@article{he2025deepmath,
+  title={Deepmath-103k: A large-scale, challenging, decontaminated, and verifiable mathematical dataset for advancing reasoning},
+  author={He, Zhiwei and Liang, Tian and Xu, Jiahao and Liu, Qiuzhi and Chen, Xingyu and Wang, Yue and Song, Linfeng and Yu, Dian and Liang, Zhenwen and Wang, Wenxuan and others},
+  journal={arXiv preprint arXiv:2504.11456},
+  year={2025}
+}

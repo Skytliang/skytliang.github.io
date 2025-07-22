@@ -1,0 +1,6 @@
+@article{chen2024not,
+  title={Do not think that much for 2+ 3=? on the overthinking of o1-like llms},
+  author={Chen, Xingyu and Xu, Jiahao and Liang, Tian and He, Zhiwei and Pang, Jianhui and Yu, Dian and Song, Linfeng and Liu, Qiuzhi and Zhou, Mengfei and Zhang, Zhuosheng and others},
+  journal={arXiv preprint arXiv:2412.21187},
+  year={2024}
+}

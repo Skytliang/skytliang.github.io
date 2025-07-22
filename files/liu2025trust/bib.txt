@@ -1,0 +1,6 @@
+@article{liu2025trust,
+  title={Trust, But Verify: A Self-Verification Approach to Reinforcement Learning with Verifiable Rewards},
+  author={Liu, Xiaoyuan and Liang, Tian and He, Zhiwei and Xu, Jiahao and Wang, Wenxuan and He, Pinjia and Tu, Zhaopeng and Mi, Haitao and Yu, Dong},
+  journal={arXiv preprint arXiv:2505.13445},
+  year={2025}
+}

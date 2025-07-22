@@ -1,0 +1,5 @@
+@inproceedings{lincritical,
+  title={Critical Tokens Matter: Token-Level Contrastive Estimation Enhances LLM’s Reasoning Capability},
+  author={Lin, Zicheng and Liang, Tian and Xu, Jiahao and Liu, Qiuzhi and Wang, Xing and Luo, Ruilin and Shi, Chufan and Li, Siheng and Yang, Yujiu and Tu, Zhaopeng},
+  booktitle={Forty-second International Conference on Machine Learning}
+}

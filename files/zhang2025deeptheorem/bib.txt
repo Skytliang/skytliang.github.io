@@ -1,0 +1,6 @@
+@article{zhang2025deeptheorem,
+  title={Deeptheorem: Advancing llm reasoning for theorem proving through natural language and reinforcement learning},
+  author={Zhang, Ziyin and Xu, Jiahao and He, Zhiwei and Liang, Tian and Liu, Qiuzhi and Li, Yansi and Song, Linfeng and Liang, Zhenwen and Zhang, Zhuosheng and Wang, Rui and others},
+  journal={arXiv preprint arXiv:2505.23754},
+  year={2025}
+}

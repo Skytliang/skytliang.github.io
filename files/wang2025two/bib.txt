@@ -1,0 +1,6 @@
+@article{wang2025two,
+  title={Two experts are all you need for steering thinking: Reinforcing cognitive effort in moe reasoning models without additional training},
+  author={Wang, Mengru and Chen, Xingyu and Wang, Yue and He, Zhiwei and Xu, Jiahao and Liang, Tian and Liu, Qiuzhi and Yao, Yunzhi and Wang, Wenxuan and Ma, Ruotian and others},
+  journal={arXiv preprint arXiv:2505.14681},
+  year={2025}
+}

@@ -1,0 +1,6 @@
+@article{li2025dancing,
+  title={Dancing with critiques: Enhancing llm reasoning with stepwise natural language self-critique},
+  author={Li, Yansi and Xu, Jiahao and Liang, Tian and Chen, Xingyu and He, Zhiwei and Liu, Qiuzhi and Wang, Rui and Zhang, Zhuosheng and Tu, Zhaopeng and Mi, Haitao and others},
+  journal={arXiv preprint arXiv:2503.17363},
+  year={2025}
+}

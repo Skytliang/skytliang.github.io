@@ -1,0 +1,6 @@
+@article{ji2025first,
+  title={The first few tokens are all you need: An efficient and effective unsupervised prefix fine-tuning method for reasoning models},
+  author={Ji, Ke and Xu, Jiahao and Liang, Tian and Liu, Qiuzhi and He, Zhiwei and Chen, Xingyu and Liu, Xiaoyuan and Wang, Zhijie and Chen, Junying and Wang, Benyou and others},
+  journal={arXiv preprint arXiv:2503.02875},
+  year={2025}
+}
