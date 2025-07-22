@@ -16,8 +16,8 @@ I graduated from Wuhan University (2017/09 - 2021/06) with a bachelor's degree a
 
 ## Research
 I am generally interested in natural language processing and machine learning. Current interests include:
-- Effective model architecture
-- Efficient training and inference
+- Effective Model Architecture
+- Efficient Training and Inference
 - Mathematical Reasoning
 
 <!-- ## News
