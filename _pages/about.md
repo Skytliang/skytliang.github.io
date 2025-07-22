@@ -24,7 +24,7 @@ I am generally interested in natural language processing and machine learning. C
 ParroT was accepted to EMNLP 2023 Findings. Congratulations to all the co-authors! -->
 
 
-## Paper
+## Selected Papers
 \* denotes co-first authors, $^\dagger$ denotes corresponding author/main advisor
 
 **DeepMath-103K: A Large-Scale, Challenging, Decontaminated, and Verifiable Mathematical Dataset for Advancing Reasoning**<br>
