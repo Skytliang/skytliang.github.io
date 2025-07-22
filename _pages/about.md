@@ -30,18 +30,29 @@ ParroT was accepted to EMNLP 2023 Findings. Congratulations to all the co-author
 **DeepMath-103K: A Large-Scale, Challenging, Decontaminated, and Verifiable Mathematical Dataset for Advancing Reasoning**<br>
 Zhiwei He\*, *Tian Liang*\*, Jiahao Xu\*, Qiuzhi Liu, Xingyu Chen, Yue Wang, Linfeng Song, Dian Yu, Zhenwen Liang, Wenxuan Wang, Zhuosheng Zhang, Rui Wang$^\dagger$, Zhaopeng Tu$^\dagger$, Haitao Mi, Dong Yu<br>
 In submission to Neurips 2025. [[arxiv]](https://arxiv.org/abs/2504.11456) [[code]](https://github.com/zwhe99/DeepMath) [[bib]](files/he2025deepmath/bib.txt)
+    
+- <font color="red">Top-1 dataset @ HF with 40K+ downloads, Github Stars: 220+</font>
 
-**Trust, But Verify: A Self-Verification Approach to Reinforcement Learning with Verifiable Rewards**<br>
-Xiaoyuan Liu, *Tian Liang*, Zhiwei He, Jiahao Xu, Wenxuan Wang, Pinjia He$^\dagger$, Zhaopeng Tu$^\dagger$, Haitao Mi, Dong Yu<br>
-In submission to Neurips 2025. [[arxiv]](https://arxiv.org/abs/2505.13445) [[code]](https://github.com/xyliu-cs/RISE) [[bib]](files/liu2025trust/bib.txt)
+**Encouraging Divergent Thinking in Large Language Models through Multi-Agent Debate**<br>
+*Tian Liang*\*, Zhiwei He\*, Wenxiang Jiao\*, Xing Wang$^\dagger$, Yan Wang, Rui Wang, Yujiu Yang$^\dagger$, Zhaopeng Tu, Shuming Shi<br>
+EMNLP 2024. [[arxiv]](https://arxiv.org/abs/2305.19118) [[code]](https://github.com/Skytliang/Multi-Agents-Debate) [[bib]](files/liang2023encouraging/bib.txt)
+
+- <font color="red">Pioneer of Multi-Agent LLM, Citations: 520+, Github Stars: 400+</font>
+
+**Do NOT Think That Much for 2+3=? On the Overthinking of Long Reasoning Models**<br>
+Xingyu Chen\*, Jiahao Xu\*, *Tian Liang*\*, Zhiwei He\*, Jianhui Pang, Dian Yu, Linfeng Song, Qiuzhi Liu, Mengfei Zhou, Zhuosheng Zhang, Rui Wang$^\dagger$, Zhaopeng Tu$^\dagger$, Haitao Mi, Dong Yu<br>
+ICML 2025. [[arxiv]](https://arxiv.org/abs/2412.21187) [[code]](https://github.com/galaxyChen/overthinking) [[bib]](files/chen2024not/bib.txt)
+
+- <font color="red">Citations: 170+, Adopted by Kimi-1.5</font>
 
 **Critical Tokens Matter: Token-Level Contrastive Estimation Enhances LLM's Reasoning Capability**<br>
 Zicheng_Lin\*, *Tian Liang*\*, Jiahao Xu\*, Qiuzhi Liu, Xing Wang, Ruilin Luo, Chufan Shi, Siheng Li, Yujiu Yang$^\dagger$, Zhaopeng Tu$^\dagger$<br>
 ICML 2025. [[arxiv]](https://arxiv.org/abs/2411.19943) [[code]](https://github.com/chenzhiling9954/Critical-Tokens-Matter) [[bib]](files/lin2024critical/bib.txt)
 
-**Do NOT Think That Much for 2+3=? On the Overthinking of Long Reasoning Models**<br>
-Xingyu Chen\*, Jiahao Xu\*, *Tian Liang*\*, Zhiwei He\*, Jianhui Pang, Dian Yu, Linfeng Song, Qiuzhi Liu, Mengfei Zhou, Zhuosheng Zhang, Rui Wang$^\dagger$, Zhaopeng Tu$^\dagger$, Haitao Mi, Dong Yu<br>
-ICML 2025. [[arxiv]](https://arxiv.org/abs/2412.21187) [[code]](https://github.com/galaxyChen/overthinking) [[bib]](files/chen2024not/bib.txt)
+**Trust, But Verify: A Self-Verification Approach to Reinforcement Learning with Verifiable Rewards**<br>
+Xiaoyuan Liu, *Tian Liang*, Zhiwei He, Jiahao Xu, Wenxuan Wang, Pinjia He$^\dagger$, Zhaopeng Tu$^\dagger$, Haitao Mi, Dong Yu<br>
+In submission to Neurips 2025. [[arxiv]](https://arxiv.org/abs/2505.13445) [[code]](https://github.com/xyliu-cs/RISE) [[bib]](files/liu2025trust/bib.txt)
+
 <!-- 
 **Refuse Whenever You Feel Unsafe: Improving Safety in LLMs via Decoupled Refusal Training**<br>
 Youliang Yuan, Wenxiang Jiao, Wenxuan Wang, Jen-tse Huang, Jiahao Xu, *Tian Liang*, Pinjia He, Zhaopeng Tu<br>
@@ -54,10 +65,6 @@ ICLR 2025. [[arxiv]](https://arxiv.org/abs/2503.12576) [[code]](https://github.c
 <!-- **How Far Are We on the Decision-Making of LLMs? Evaluating LLMs' Gaming Ability in Multi-Agent Environments**<br>
 Jen-tse Huang, Eric John Li, Man Ho Lam, *Tian Liang*, Wenxuan Wang, Youliang Yuan, Wenxiang Jiao$^\dagger$, Xing Wang, Zhaopeng Tu, Michael R. Lyu<br>
 ICLR 2025. [[arxiv]](https://arxiv.org/abs/2403.11807) [[code]](https://github.com/CUHK-ARISE/GAMABench) [[bib]](files/huang2024far/bib.txt) -->
-
-**Encouraging Divergent Thinking in Large Language Models through Multi-Agent Debate**<br>
-*Tian Liang*\*, Zhiwei He\*, Wenxiang Jiao\*, Xing Wang$^\dagger$, Yan Wang, Rui Wang, Yujiu Yang$^\dagger$, Zhaopeng Tu, Shuming Shi<br>
-EMNLP 2024. [[arxiv]](https://arxiv.org/abs/2305.19118) [[code]](https://github.com/Skytliang/Multi-Agents-Debate) [[bib]](files/liang2023encouraging/bib.txt) [[Citations: 522 🎉🎉]](https://scholar.google.com.hk/scholar?hl=zh-CN&as_sdt=0%2C5&q=Encouraging+Divergent+Thinking+in+Large+Language+Models+through+Multi-Agent+Debate&btnG=)
 
 **Addressing Entity Translation Problem via Translation Difficulty and Context Diversity**<br>
 *Tian Liang*, Xing Wang$^\dagger$, Mingming Yang, Yujiu Yang$^\dagger$, Shuming Shi, Zhaopeng Tu<br>
