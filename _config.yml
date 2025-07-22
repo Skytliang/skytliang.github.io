@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Tian Liang - THU"
+title                    : "Tian Liang - Tencent AI Lab"
 title_separator          : "-"
 name                     : &name "Tian Liang"
 description              : &description "personal description"
