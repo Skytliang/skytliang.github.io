@@ -56,7 +56,7 @@ Neurips 2025. [[arxiv]](https://arxiv.org/abs/2501.18585) [[bib]](files/wang2025
 ICLR 2026. [[arxiv]](https://arxiv.org/abs/2510.27419) [[code]](https://github.com/Skytliang/DeepCompress) [[bib]](files/liang2026deepcompress/bib.txt)
 
 **Critical Tokens Matter: Token-Level Contrastive Estimation Enhances LLM's Reasoning Capability**<br>
-Zicheng_Lin\*, *Tian Liang*\*, Jiahao Xu\*, Qiuzhi Liu, Xing Wang, Ruilin Luo, Chufan Shi, Siheng Li, Yujiu Yang$^\dagger$, Zhaopeng Tu$^\dagger$<br>
+Zicheng Lin\*, *Tian Liang*\*, Jiahao Xu\*, Qiuzhi Liu, Xing Wang, Ruilin Luo, Chufan Shi, Siheng Li, Yujiu Yang$^\dagger$, Zhaopeng Tu$^\dagger$<br>
 ICML 2025. [[arxiv]](https://arxiv.org/abs/2411.19943) [[code]](https://github.com/chenzhiling9954/Critical-Tokens-Matter) [[bib]](files/lin2024critical/bib.txt)
 
 **Trust, But Verify: A Self-Verification Approach to Reinforcement Learning with Verifiable Rewards**<br>
