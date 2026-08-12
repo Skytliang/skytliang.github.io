@@ -1,0 +1,8 @@
+@inproceedings{liang2026deepcompress,
+  title={Deepcompress: A dual reward strategy for dynamically exploring and compressing reasoning chains},
+  author={Liang, Tian and Jiao, Wenxiang and He, Zhiwei and Xu, Jiahao and Mi, Haitao and Yu, Dong},
+  booktitle={International Conference on Learning Representations},
+  volume={2026},
+  pages={87309--87323},
+  year={2026}
+}
