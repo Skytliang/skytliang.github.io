@@ -12,13 +12,13 @@ redirect_from:
 <!-- ## About Me -->
 I work at [Tencent AI Lab](https://ai.tencent.com/ailab/en/index) <img src='./images/Tencent_AI_Lab.jpg' style='width: 1.2em;'> as a research scientist now in Shenzhen. 
 
-I graduated from Wuhan University (2017/09 - 2021/06) with a bachelor's degree and from the [Intelligent Interaction Group](https://sites.google.com/view/iigroup-thu/publication), SIGS @ Tsinghua University (2021/09 - 2024/06) with a master's degree, advised by Prof. [Yujiu Yang](https://scholar.google.co.za/citations?user=4gH3sxsAAAAJ&hl=en).
+I completed my master's degree at Tsinghua University (SIGS, 2021/09 - 2024/06) under the supervision of Prof. [Yujiu Yang](https://scholar.google.co.za/citations?user=4gH3sxsAAAAJ&hl=en) in the [Intelligent Interaction Group](https://sites.google.com/view/iigroup-thu/publication). Previously, I earned my bachelor's degree from Wuhan University (2017/09 - 2021/06).
 
 ## Research
 I am generally interested in natural language processing and machine learning. Current interests include:
 - Effective Model Architecture
-- Efficient Training and Inference
-- Mathematical Reasoning
+- Ultra-Long Context Memory
+- Reinforcement Learning
 
 <!-- ## News
 ParroT was accepted to EMNLP 2023 Findings. Congratulations to all the co-authors! -->
@@ -27,35 +27,41 @@ ParroT was accepted to EMNLP 2023 Findings. Congratulations to all the co-author
 ## Selected Papers
 \* denotes co-first authors, $^\dagger$ denotes corresponding author/main advisor
 
-**DeepMath-103K: A Large-Scale, Challenging, Decontaminated, and Verifiable Mathematical Dataset for Advancing Reasoning**<br>
-Zhiwei He\*, *Tian Liang*\*, Jiahao Xu\*, Qiuzhi Liu, Xingyu Chen, Yue Wang, Linfeng Song, Dian Yu, Zhenwen Liang, Wenxuan Wang, Zhuosheng Zhang, Rui Wang$^\dagger$, Zhaopeng Tu$^\dagger$, Haitao Mi, Dong Yu<br>
-In submission to Neurips 2025. [[arxiv]](https://arxiv.org/abs/2504.11456) [[code]](https://github.com/zwhe99/DeepMath) [[bib]](files/he2025deepmath/bib.txt)
-    
-- <font color="red">Top-1 dataset @ HF with 40K+ downloads, Github Stars: 220+</font>
-
 **Encouraging Divergent Thinking in Large Language Models through Multi-Agent Debate**<br>
 *Tian Liang*\*, Zhiwei He\*, Wenxiang Jiao\*, Xing Wang$^\dagger$, Yan Wang, Rui Wang, Yujiu Yang$^\dagger$, Zhaopeng Tu, Shuming Shi<br>
 EMNLP 2024. [[arxiv]](https://arxiv.org/abs/2305.19118) [[code]](https://github.com/Skytliang/Multi-Agents-Debate) [[bib]](files/liang2023encouraging/bib.txt)
 
-- <font color="red">Pioneer of Multi-Agent LLM, Citations: 520+, Github Stars: 400+</font>
+- <font color="red">Pioneer of Multi-Agent LLM, Citations: 1,500+, Github Stars: 600+</font>
+
+**DeepMath-103K: A Large-Scale, Challenging, Decontaminated, and Verifiable Mathematical Dataset for Advancing Reasoning**<br>
+Zhiwei He\*, *Tian Liang*\*, Jiahao Xu\*, Qiuzhi Liu, Xingyu Chen, Yue Wang, Linfeng Song, Dian Yu, Zhenwen Liang, Wenxuan Wang, Zhuosheng Zhang, Rui Wang$^\dagger$, Zhaopeng Tu$^\dagger$, Haitao Mi, Dong Yu<br>
+In submission to Neurips 2025. [[arxiv]](https://arxiv.org/abs/2504.11456) [[code]](https://github.com/zwhe99/DeepMath) [[bib]](files/he2025deepmath/bib.txt)
+    
+- <font color="red">Top-1 dataset @ HF with 100K+ downloads, Github Stars: 300+</font>
 
 **Do NOT Think That Much for 2+3=? On the Overthinking of Long Reasoning Models**<br>
 Xingyu Chen\*, Jiahao Xu\*, *Tian Liang*\*, Zhiwei He\*, Jianhui Pang, Dian Yu, Linfeng Song, Qiuzhi Liu, Mengfei Zhou, Zhuosheng Zhang, Rui Wang$^\dagger$, Zhaopeng Tu$^\dagger$, Haitao Mi, Dong Yu<br>
 ICML 2025. [[arxiv]](https://arxiv.org/abs/2412.21187) [[code]](https://github.com/galaxyChen/overthinking) [[bib]](files/chen2024not/bib.txt)
 
-- <font color="red">Citations: 170+, Adopted by Kimi-1.5</font>
+- <font color="red">Adopted by Kimi-1.5, Citations: 600+</font>
+
+**Thoughts Are All Over the Place: On the Underthinking of Long Reasoning Models**<br>
+Yue Wang\*, Qiuzhi Liu\*, Jiahao Xu\*, *Tian Liang*\*, Xingyu Chen, Zhiwei He, Linfeng Song, Dian Yu, Juntao Li, Zhuosheng Zhang, Rui Wang, Zhaopeng Tu$^\dagger$, Haitao Mi, Dong Yu<br>
+Neurips 2025. [[arxiv]](https://arxiv.org/abs/2501.18585) [[bib]](files/wang2025thoughts/bib.txt)
+
+- <font color="red">NeurIPS 2025 Spotlight, Citations: 200+</font>
+
+**DeepCompress: A Dual Reward Strategy for Dynamically Exploring and Compressing Reasoning Chains**<br>
+*Tian Liang*$^\dagger$, Wenxiang Jiao, Zhiwei He, Jiahao Xu, Haitao Mi, Dong Yu<br>
+ICLR 2026. [[arxiv]](https://arxiv.org/abs/2510.27419) [[code]](https://github.com/Skytliang/DeepCompress) [[bib]](files/liang2026deepcompress/bib.txt)
 
 **Critical Tokens Matter: Token-Level Contrastive Estimation Enhances LLM's Reasoning Capability**<br>
 Zicheng_Lin\*, *Tian Liang*\*, Jiahao Xu\*, Qiuzhi Liu, Xing Wang, Ruilin Luo, Chufan Shi, Siheng Li, Yujiu Yang$^\dagger$, Zhaopeng Tu$^\dagger$<br>
 ICML 2025. [[arxiv]](https://arxiv.org/abs/2411.19943) [[code]](https://github.com/chenzhiling9954/Critical-Tokens-Matter) [[bib]](files/lin2024critical/bib.txt)
 
-**Thoughts Are All Over the Place: On the Underthinking of Long Reasoning Models**<br>
-Yue Wang, Qiuzhi Liu, Jiahao Xu, *Tian Liang*, Xingyu Chen, Zhiwei He, Linfeng Song, Dian Yu, Juntao Li, Zhuosheng Zhang, Rui Wang, Zhaopeng Tu$^\dagger$, Haitao Mi, Dong Yu<br>
-In submission to Neurips 2025. [[arxiv]](https://arxiv.org/abs/2501.18585) [[bib]](files/wang2025thoughts/bib.txt)
-
-<!-- **Trust, But Verify: A Self-Verification Approach to Reinforcement Learning with Verifiable Rewards**<br>
+**Trust, But Verify: A Self-Verification Approach to Reinforcement Learning with Verifiable Rewards**<br>
 Xiaoyuan Liu, *Tian Liang*, Zhiwei He, Jiahao Xu, Wenxuan Wang, Pinjia He$^\dagger$, Zhaopeng Tu$^\dagger$, Haitao Mi, Dong Yu<br>
-In submission to Neurips 2025. [[arxiv]](https://arxiv.org/abs/2505.13445) [[code]](https://github.com/xyliu-cs/RISE) [[bib]](files/liu2025trust/bib.txt) -->
+Neurips 2025. [[arxiv]](https://arxiv.org/abs/2505.13445) [[code]](https://github.com/xyliu-cs/RISE) [[bib]](files/liu2025trust/bib.txt)
 
 <!-- 
 **Refuse Whenever You Feel Unsafe: Improving Safety in LLMs via Decoupled Refusal Training**<br>
@@ -81,10 +87,10 @@ TACL 2023. [[arxiv]](https://arxiv.org/abs/2305.04118) [[code]](https://github.c
 **CriticBench: Benchmarking LLMs for Critique-Correct Reasoning**<br>
 Zicheng Lin\*, Zhibin Gou\*, *Tian Liang*, Ruilin Luo, Haowei Liu, Yujiu Yang$^\dagger$<br>
 ACL 2024. [[arxiv]](https://arxiv.org/abs/2402.14809) [[code]](https://github.com/CriticBench/CriticBench) [[bib]](files/lin2024criticbench/bib.txt)
-
+<!-- 
 **ParroT: Translating during Chat using Large Language Models tuned with Human Translation and Feedback**<br>
 Wenxiang Jiao\*, Jen-tse Huang, Wenxuan Wang, Zhiwei He, *Tian Liang*, Xing Wang, Shuming Shi, Zhaopeng Tu<br>
-EMNLP 2023. [[arxiv]](https://arxiv.org/abs/2304.02426) [[code]](https://github.com/wxjiao/ParroT) [[bib]](files/jiao2023parrot/bib.txt)
+EMNLP 2023. [[arxiv]](https://arxiv.org/abs/2304.02426) [[code]](https://github.com/wxjiao/ParroT) [[bib]](files/jiao2023parrot/bib.txt) -->
 
 
 <!-- ## In Submission
